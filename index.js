@@ -65,3 +65,7 @@ function newCard() {
         renderGame()        
     }
 }
+
+window.getRandomCard = getRandomCard;
+window.newCard = newCard;
+
