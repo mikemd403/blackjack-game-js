@@ -66,6 +66,3 @@ function newCard() {
     }
 }
 
-window.getRandomCard = getRandomCard;
-window.newCard = newCard;
-
