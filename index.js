@@ -66,3 +66,6 @@ function newCard() {
     }
 }
 
+window.startgame = startGame;
+window.newcard = newCard;
+
